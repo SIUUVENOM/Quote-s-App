@@ -1,0 +1,27 @@
+header,section{
+    text-align: center;
+}
+header h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 80px;
+    font-weight: 700;
+}
+header button{
+    background-color: blue;
+    padding: 30px 90px;
+    color: #fff;
+}
+
+header button:hover{
+    background-color: green;
+}
+
+header h2,section{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 35px;
+    font-weight: 400;
+}
+.container{
+    width: 75%;
+    margin: auto;
+}
